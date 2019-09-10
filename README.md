@@ -1,6 +1,6 @@
 # string-accumulator
 
-Create a simple string calculator with a method int add(String numbers)
+Create a simple string calculator with a method int add(String numbers)\n
 a. The method can take 0, 1 or 2 numbers and will return their sum (for an empty string
 it will return 0) for example “” or “1” or “1,2”
 b. Start with the simplest test case of an empty string and move to 1 and 2 numbers.
